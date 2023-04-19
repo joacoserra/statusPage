@@ -7,11 +7,11 @@ sites:
     url: https://www.google.com
   - name: Baipro S.A
     url: https://baiproingenieria.com/
-  - name: eWins Staging
-    url: ${{ vars.EWINSSTAGINGWEB }}
+  - name: Neocomplexx
+    curl: http://neocomplexx.com/es/inicio/
   - name: eWins
     url: https://www.ewins.com.ar/
-  - name: Sysacad
+  - name: Sysacad UTN
     url: http://www.frbb.utn.edu.ar/sysacad/LoginAlumno.asp
   - name: UTN Aula Virtual
     url: https://aulavirtual.frbb.utn.edu.ar/
