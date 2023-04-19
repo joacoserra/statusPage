@@ -8,7 +8,7 @@ sites:
   - name: Baipro S.A
     url: https://baiproingenieria.com/
   - name: Neocomplexx
-    curl: http://neocomplexx.com/es/inicio/
+    url: http://neocomplexx.com/es/inicio/
   - name: eWins
     url: https://www.ewins.com.ar/
   - name: Sysacad UTN
