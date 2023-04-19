@@ -58,19 +58,19 @@
     "url": "https://www.ewins.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 2753,
-    "timeDay": 2753,
-    "timeWeek": 2753,
-    "timeMonth": 2753,
-    "timeYear": 2753,
+    "status": "up",
+    "uptime": "76.06%",
+    "uptimeDay": "76.06%",
+    "uptimeWeek": "76.06%",
+    "uptimeMonth": "76.06%",
+    "uptimeYear": "76.06%",
+    "time": 2193,
+    "timeDay": 2193,
+    "timeWeek": 2193,
+    "timeMonth": 2193,
+    "timeYear": 2193,
     "dailyMinutesDown": {
-      "2023-04-19": 0
+      "2023-04-19": 16
     }
   },
   {
