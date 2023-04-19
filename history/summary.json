@@ -58,18 +58,20 @@
     "url": "https://www.ewins.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 2753,
     "timeDay": 2753,
     "timeWeek": 2753,
     "timeMonth": 2753,
     "timeYear": 2753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-19": 0
+    }
   },
   {
     "name": "Sysacad UTN",
