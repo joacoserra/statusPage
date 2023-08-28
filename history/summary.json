@@ -55,7 +55,7 @@
     "timeMonth": 1177,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2023-08-28": 65,
+      "2023-08-28": 275,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.neocomplexx.com.ico",
     "slug": "neocomplexx",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.74%",
+    "uptimeYear": "94.75%",
     "time": 2378,
     "timeDay": 505,
     "timeWeek": 683,
@@ -178,18 +178,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "97.13%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "97.11%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 2718,
     "timeDay": 2877,
     "timeWeek": 2309,
     "timeMonth": 3288,
     "timeYear": 2718,
     "dailyMinutesDown": {
+      "2023-08-28": 0,
       "2023-08-27": 41,
       "2023-08-26": 53,
       "2023-08-25": 54,
@@ -284,8 +285,7 @@
       "2023-05-21": 26,
       "2023-05-20": 26,
       "2023-05-19": 22,
-      "2023-05-18": 22,
-      "2023-05-15": 27
+      "2023-05-18": 22
     }
   }
 ]
