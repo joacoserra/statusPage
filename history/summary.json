@@ -58,7 +58,7 @@
     "timeMonth": 1111,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-04-20": 68,
+      "2024-04-20": 278,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
@@ -348,7 +348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "up",
-    "uptime": "45.74%",
+    "uptime": "45.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -631,18 +631,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "96.26%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "98.54%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "98.55%",
     "time": 2565,
     "timeDay": 1579,
     "timeWeek": 2221,
     "timeMonth": 1787,
     "timeYear": 2571,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-04-19": 54,
       "2024-04-18": 47,
       "2024-04-17": 57,
@@ -728,8 +729,7 @@
       "2024-01-28": 44,
       "2024-01-27": 41,
       "2024-01-26": 42,
-      "2024-01-25": 41,
-      "2024-01-24": 58
+      "2024-01-25": 41
     }
   }
 ]
