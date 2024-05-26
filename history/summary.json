@@ -60,7 +60,7 @@
     "timeMonth": 1030,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2024-05-26": 77,
+      "2024-05-26": 274,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -386,18 +386,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "down",
-    "uptime": "46.33%",
+    "uptime": "46.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.58%",
-    "uptimeYear": "40.88%",
+    "uptimeMonth": "43.13%",
+    "uptimeYear": "40.85%",
     "time": 1584,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 330,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2024-05-26": 77,
+      "2024-05-26": 274,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -632,7 +632,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.frbb.utn.edu.ar.ico",
     "slug": "sysacad-utn",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -680,10 +680,10 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "96.57%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "96.59%",
     "uptimeMonth": "96.83%",
     "uptimeYear": "98.84%",
     "time": 2499,
@@ -692,6 +692,7 @@
     "timeMonth": 1874,
     "timeYear": 2588,
     "dailyMinutesDown": {
+      "2024-05-26": 0,
       "2024-05-25": 43,
       "2024-05-24": 58,
       "2024-05-23": 49,
@@ -787,7 +788,7 @@
       "2024-02-23": 55,
       "2024-02-22": 55,
       "2024-02-21": 45,
-      "2024-02-20": 103
+      "2024-02-20": 55
     }
   }
 ]
