@@ -58,7 +58,7 @@
     "timeMonth": 1157,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2024-08-22": 80,
+      "2024-08-22": 281,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -431,7 +431,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.neocomplexx.com.ico",
     "slug": "neocomplexx",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -451,7 +451,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "up",
-    "uptime": "47.70%",
+    "uptime": "47.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -768,18 +768,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "97.87%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "97.94%",
     "uptimeMonth": "97.14%",
-    "uptimeYear": "99.21%",
-    "time": 2427,
+    "uptimeYear": "99.22%",
+    "time": 2428,
     "timeDay": 1807,
     "timeWeek": 1849,
     "timeMonth": 2102,
     "timeYear": 2299,
     "dailyMinutesDown": {
+      "2024-08-22": 0,
       "2024-08-21": 22,
       "2024-08-20": 24,
       "2024-08-19": 29,
@@ -877,8 +878,7 @@
       "2024-05-19": 57,
       "2024-05-18": 43,
       "2024-05-17": 60,
-      "2024-05-16": 42,
-      "2024-05-15": 79
+      "2024-05-16": 42
     }
   }
 ]
