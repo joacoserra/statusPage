@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 132,
-    "timeWeek": 114,
-    "timeMonth": 110,
+    "timeDay": 90,
+    "timeWeek": 110,
+    "timeMonth": 111,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 33
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1293,
-    "timeDay": 570,
-    "timeWeek": 576,
-    "timeMonth": 687,
-    "timeYear": 1108,
+    "timeDay": 881,
+    "timeWeek": 617,
+    "timeMonth": 697,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2024-03-21": 161,
       "2023-12-18": 20,
@@ -52,13 +52,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1141,
-    "timeDay": 1266,
-    "timeWeek": 1252,
-    "timeMonth": 1336,
-    "timeYear": 1130,
+    "time": 1142,
+    "timeDay": 1519,
+    "timeWeek": 1286,
+    "timeMonth": 1341,
+    "timeYear": 1131,
     "dailyMinutesDown": {
-      "2024-10-08": 319,
+      "2024-10-09": 86,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -421,8 +422,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -436,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 939,
-    "timeDay": 710,
-    "timeWeek": 908,
-    "timeMonth": 965,
-    "timeYear": 815,
+    "time": 937,
+    "timeDay": 1206,
+    "timeWeek": 952,
+    "timeMonth": 979,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2024-02-21": 269
     }
@@ -451,16 +451,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "up",
-    "uptime": "52.29%",
+    "uptime": "52.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.79%",
-    "time": 695,
-    "timeDay": 193,
-    "timeWeek": 221,
-    "timeMonth": 312,
-    "timeYear": 452,
+    "uptimeYear": "43.02%",
+    "time": 694,
+    "timeDay": 321,
+    "timeWeek": 240,
+    "timeMonth": 315,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2024-07-05": 863,
       "2024-07-04": 1440,
@@ -670,8 +670,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -686,10 +685,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
     "time": 1453,
-    "timeDay": 789,
-    "timeWeek": 1413,
-    "timeMonth": 1915,
-    "timeYear": 1541,
+    "timeDay": 988,
+    "timeWeek": 1434,
+    "timeMonth": 1914,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2024-08-29": 69,
       "2024-08-23": 20,
@@ -721,8 +720,7 @@
       "2023-12-14": 16,
       "2023-12-12": 83,
       "2023-12-11": 1,
-      "2023-11-14": 30,
-      "2023-10-10": 29
+      "2023-11-14": 30
     }
   },
   {
@@ -732,15 +730,15 @@
     "slug": "utn-aula-virtual",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "97.68%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.22%",
-    "time": 2341,
-    "timeDay": 1210,
-    "timeWeek": 1895,
-    "timeMonth": 2283,
-    "timeYear": 2298,
+    "time": 2345,
+    "timeDay": 3157,
+    "timeWeek": 1820,
+    "timeMonth": 2346,
+    "timeYear": 2303,
     "dailyMinutesDown": {
       "2024-10-08": 33,
       "2024-10-07": 50,
