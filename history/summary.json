@@ -58,7 +58,7 @@
     "timeMonth": 1418,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2024-12-19": 100,
+      "2024-12-19": 279,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -456,7 +456,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.45%",
+    "uptimeYear": "62.48%",
     "time": 597,
     "timeDay": 484,
     "timeWeek": 545,
@@ -656,18 +656,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "96.77%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "96.84%",
     "uptimeMonth": "97.22%",
-    "uptimeYear": "99.24%",
-    "time": 2358,
+    "uptimeYear": "99.25%",
+    "time": 2359,
     "timeDay": 8145,
     "timeWeek": 4232,
     "timeMonth": 2674,
     "timeYear": 2373,
     "dailyMinutesDown": {
+      "2024-12-19": 0,
       "2024-12-18": 64,
       "2024-12-17": 53,
       "2024-12-16": 55,
@@ -765,8 +766,7 @@
       "2024-09-14": 47,
       "2024-09-13": 32,
       "2024-09-12": 47,
-      "2024-09-11": 49,
-      "2024-09-10": 46
+      "2024-09-11": 49
     }
   }
 ]
