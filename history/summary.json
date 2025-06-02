@@ -24,7 +24,7 @@
     "slug": "baipro-s-a",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "82.23%",
+    "uptimeDay": "91.60%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.92%",
@@ -58,7 +58,7 @@
     "timeMonth": 1280,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2025-06-02": 115,
+      "2025-06-02": 283,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -456,7 +456,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.79%",
+    "uptimeYear": "90.82%",
     "time": 1365,
     "timeDay": 935,
     "timeWeek": 2762,
@@ -551,18 +551,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "98.28%",
     "uptimeWeek": "95.74%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "97.70%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "97.71%",
     "time": 2282,
     "timeDay": 4467,
     "timeWeek": 3821,
     "timeMonth": 2344,
     "timeYear": 2352,
     "dailyMinutesDown": {
+      "2025-06-02": 0,
       "2025-06-01": 24,
       "2025-05-31": 37,
       "2025-05-30": 39,
@@ -649,8 +650,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 670,
-      "2025-03-06": 38
+      "2025-03-07": 670
     }
   }
 ]
