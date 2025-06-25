@@ -58,7 +58,7 @@
     "timeMonth": 1209,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2025-06-25": 114,
+      "2025-06-25": 301,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -452,11 +452,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "up",
-    "uptime": "67.82%",
+    "uptime": "67.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.13%",
     "time": 1436,
     "timeDay": 2988,
     "timeWeek": 2924,
@@ -532,18 +532,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "95.94%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.05%",
-    "time": 2324,
+    "time": 2325,
     "timeDay": 3134,
     "timeWeek": 2346,
     "timeMonth": 2772,
     "timeYear": 2414,
     "dailyMinutesDown": {
+      "2025-06-25": 0,
       "2025-06-24": 44,
       "2025-06-23": 46,
       "2025-06-22": 46,
@@ -628,7 +629,7 @@
       "2025-04-03": 37,
       "2025-04-02": 36,
       "2025-04-01": 526,
-      "2025-03-31": 141
+      "2025-03-31": 107
     }
   }
 ]
