@@ -1,7 +1,7 @@
 url: https://aulavirtual.frbb.utn.edu.ar/
-status: up
-code: 200
-responseTime: 6061
-lastUpdated: 2025-06-30T23:24:23.275Z
+status: down
+code: 500
+responseTime: 1044
+lastUpdated: 2025-07-01T04:58:19.904Z
 startTime: 2023-04-19T16:20:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
