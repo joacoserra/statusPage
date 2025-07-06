@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 158,
-    "timeWeek": 112,
-    "timeMonth": 110,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 298,
+    "timeWeek": 153,
+    "timeMonth": 120,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2025-07-06": 0
+    }
   },
   {
     "name": "Baipro S.A",
@@ -58,7 +60,7 @@
     "timeMonth": 1225,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2025-07-06": 335,
+      "2025-07-06": 1150,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -452,7 +454,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "up",
-    "uptime": "68.27%",
+    "uptime": "68.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
