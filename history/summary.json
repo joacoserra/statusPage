@@ -60,7 +60,7 @@
     "timeMonth": 1273,
     "timeYear": 1286,
     "dailyMinutesDown": {
-      "2025-07-16": 119,
+      "2025-07-16": 292,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -521,18 +521,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "99.09%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "99.10%",
     "time": 2413,
     "timeDay": 3842,
     "timeWeek": 4369,
     "timeMonth": 3102,
     "timeYear": 2472,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2025-07-15": 33,
       "2025-07-14": 60,
       "2025-07-13": 49,
@@ -626,8 +627,7 @@
       "2025-04-15": 322,
       "2025-04-14": 168,
       "2025-04-13": 27,
-      "2025-04-12": 35,
-      "2025-04-11": 35
+      "2025-04-12": 35
     }
   }
 ]
