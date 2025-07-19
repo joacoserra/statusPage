@@ -58,9 +58,9 @@
     "timeDay": 1324,
     "timeWeek": 1358,
     "timeMonth": 1326,
-    "timeYear": 1286,
+    "timeYear": 1287,
     "dailyMinutesDown": {
-      "2025-07-19": 116,
+      "2025-07-19": 289,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -442,7 +442,7 @@
     "timeDay": 977,
     "timeWeek": 962,
     "timeMonth": 987,
-    "timeYear": 971,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2025-04-02": 22,
       "2024-11-29": 72
@@ -454,7 +454,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
     "status": "up",
-    "uptime": "68.76%",
+    "uptime": "68.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -463,7 +463,7 @@
     "timeDay": 2889,
     "timeWeek": 2595,
     "timeMonth": 2527,
-    "timeYear": 1685,
+    "timeYear": 1689,
     "dailyMinutesDown": {
       "2024-10-29": 134
     }
@@ -477,13 +477,13 @@
     "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
     "time": 1988,
     "timeDay": 1324,
     "timeWeek": 1518,
-    "timeMonth": 2032,
-    "timeYear": 2231,
+    "timeMonth": 2043,
+    "timeYear": 2235,
     "dailyMinutesDown": {
       "2025-06-19": 129,
       "2025-06-10": 33,
@@ -521,18 +521,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "99.09%",
-    "time": 2398,
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "99.10%",
+    "time": 2399,
     "timeDay": 1319,
     "timeWeek": 2643,
-    "timeMonth": 3090,
-    "timeYear": 2469,
+    "timeMonth": 3111,
+    "timeYear": 2471,
     "dailyMinutesDown": {
+      "2025-07-19": 0,
       "2025-07-18": 29,
       "2025-07-17": 34,
       "2025-07-16": 26,
@@ -627,7 +628,7 @@
       "2025-04-17": 38,
       "2025-04-16": 26,
       "2025-04-15": 322,
-      "2025-04-14": 168
+      "2025-04-14": 133
     }
   }
 ]
