@@ -60,7 +60,7 @@
     "timeMonth": 1319,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-07-22": 121,
+      "2025-07-22": 293,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -474,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.frbb.utn.edu.ar.ico",
     "slug": "sysacad-utn",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -521,18 +521,19 @@
     "url": "https://aulavirtual.frbb.utn.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aulavirtual.frbb.utn.edu.ar.ico",
     "slug": "utn-aula-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.40%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.43%",
     "uptimeYear": "99.16%",
-    "time": 2405,
+    "time": 2406,
     "timeDay": 3730,
     "timeWeek": 2585,
     "timeMonth": 3046,
     "timeYear": 2471,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-21": 28,
       "2025-07-20": 64,
       "2025-07-19": 51,
@@ -627,8 +628,7 @@
       "2025-04-20": 53,
       "2025-04-19": 53,
       "2025-04-18": 55,
-      "2025-04-17": 38,
-      "2025-04-16": 26
+      "2025-04-17": 38
     }
   }
 ]
