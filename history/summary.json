@@ -60,7 +60,7 @@
     "timeMonth": 1304,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-07-25": 467,
+      "2025-07-25": 1283,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -453,18 +453,19 @@
     "url": "https://www.ewins.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ewins.com.ar.ico",
     "slug": "e-wins",
-    "status": "up",
-    "uptime": "69.00%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "69.02%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1494,
+    "time": 1496,
     "timeDay": 827,
     "timeWeek": 2385,
     "timeMonth": 2405,
     "timeYear": 1721,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2024-10-29": 134
     }
   },
